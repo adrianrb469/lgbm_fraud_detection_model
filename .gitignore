@@ -1,2 +1,33 @@
 transactions.csv
 transactions_processed.csv
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.figlist
+*.makefile
+*.backup
+*.dvi
+*.ps
+
+# LaTeX temporary files
+.texpadtmp/
+
+# LaTeX build directories
+build/
+output/
